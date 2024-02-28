@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphLibrary", "GraphLibrary\GraphLibrary.csproj", "{74B5098D-CAA1-4609-BB3A-436A2F88FDB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGraphs", "ConsoleGraphs\ConsoleGraphs.csproj", "{E7751BD4-0DA7-4910-B289-3E2400B5CE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B5098D-CAA1-4609-BB3A-436A2F88FDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B5098D-CAA1-4609-BB3A-436A2F88FDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B5098D-CAA1-4609-BB3A-436A2F88FDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B5098D-CAA1-4609-BB3A-436A2F88FDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7751BD4-0DA7-4910-B289-3E2400B5CE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7751BD4-0DA7-4910-B289-3E2400B5CE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7751BD4-0DA7-4910-B289-3E2400B5CE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7751BD4-0DA7-4910-B289-3E2400B5CE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

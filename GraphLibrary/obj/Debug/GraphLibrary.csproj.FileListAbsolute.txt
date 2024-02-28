@@ -1,0 +1,6 @@
+E:\Graphs\GraphLibrary\bin\Debug\GraphLibrary.dll
+E:\Graphs\GraphLibrary\bin\Debug\GraphLibrary.pdb
+E:\Graphs\GraphLibrary\obj\Debug\GraphLibrary.csproj.AssemblyReference.cache
+E:\Graphs\GraphLibrary\obj\Debug\GraphLibrary.csproj.CoreCompileInputs.cache
+E:\Graphs\GraphLibrary\obj\Debug\GraphLibrary.dll
+E:\Graphs\GraphLibrary\obj\Debug\GraphLibrary.pdb

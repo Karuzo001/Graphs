@@ -1,0 +1,9 @@
+E:\Graphs\ConsoleGraphs\bin\Debug\ConsoleGraphs.exe
+E:\Graphs\ConsoleGraphs\bin\Debug\ConsoleGraphs.pdb
+E:\Graphs\ConsoleGraphs\bin\Debug\GraphLibrary.dll
+E:\Graphs\ConsoleGraphs\bin\Debug\GraphLibrary.pdb
+E:\Graphs\ConsoleGraphs\obj\Debug\ConsoleGraphs.csproj.AssemblyReference.cache
+E:\Graphs\ConsoleGraphs\obj\Debug\ConsoleGraphs.csproj.CoreCompileInputs.cache
+E:\Graphs\ConsoleGraphs\obj\Debug\ConsoleGraphs.csproj.CopyComplete
+E:\Graphs\ConsoleGraphs\obj\Debug\ConsoleGraphs.exe
+E:\Graphs\ConsoleGraphs\obj\Debug\ConsoleGraphs.pdb
